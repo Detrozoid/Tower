@@ -4,6 +4,6 @@
 
 #The droplets falling gently down on the terrain
 
-#Wash away sorrow all the stains of time
+#Wash away the sorrow all the stains of time
 
 #But there's no memory it's only dry inside
